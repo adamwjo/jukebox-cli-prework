@@ -35,6 +35,3 @@ def play(songs)
     puts "Invalid input, please try again"
   end
 end
-
-sept.14 1943
-231-06-0674
